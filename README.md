@@ -8,6 +8,6 @@ This repository created for showing as simple as possible way of Huawei's In App
 
 You can find step-by-step description on the link below.
 
-[Medium Article](https://medium.com/p/e5658ccd6025/edit)
+[Medium Article](https://eupmrt.medium.com/huawei-in-app-purchase-simple-example-and-step-by-step-integration-e5658ccd6025)
 
 ## Thanks for your feedbacks and support!
